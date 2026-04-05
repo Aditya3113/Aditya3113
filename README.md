@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/Aditya3113/Aditya3113/main/1.png" width="100%" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aditya+Pandey;UnderGrad+%40+IIITU;AI%2FML+Developer" />
+</p>
+
 # 💫 About Me:
 🔭 Working on: AI/ML models & real-world applications  <br>👯 Open to collaborate on AI projects  <br>🤝 Seeking help in: MLOps, scaling & deployment <br>💬 Ask me about: Machine Learning, Agentic AI, Data Structures <br>⚡ Fun fact: I debug models like detective cases 🕵️
 
