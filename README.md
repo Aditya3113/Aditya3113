@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Aditya3113/Aditya3113/main/1.png" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=4000&pause=1200&color=FFA94D&center=true&vCenter=true&width=900&lines=Aditya+Pandey;UnderGrad+%40+IIITU;AI%2FML+Developer" />
+  <img src="https://raw.githubusercontent.com/Aditya3113/Aditya3113/main/typing.svg" />
 </p>
 
 # 💫 About Me:
