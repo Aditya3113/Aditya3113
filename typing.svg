@@ -6,7 +6,7 @@
   font-size: 42px;
   font-weight: 600;
   letter-spacing: 1px;
-  fill: #BFA76F;
+  fill: #FFFFFF;
   opacity: 0;
   animation: fadeSlide 18s infinite;
 }
